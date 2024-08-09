@@ -75,6 +75,10 @@ We welcome contributions to StreamTown! If you have suggestions for new features
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
+### Author
+
+Dhawal Dixit
+
 ---
 
 StreamTown is designed to be a simple, easy-to-use tool for anyone looking to stream video content online. We hope you find it useful!
